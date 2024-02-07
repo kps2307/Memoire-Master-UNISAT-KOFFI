@@ -1,1 +1,2 @@
-# Memoire-Master-UNISAT-KOFFI
+# Memoire Master UNISAT
+Ensemble des codes utilisés
